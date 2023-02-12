@@ -1,0 +1,106 @@
+# ninja log v5
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/libflutter_linux_gtk.so	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_value.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_view.h	3c97a894e539e910
+0	25760	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3c97a894e539e910
+0	25760	0	flutter/_phony_	3c97a894e539e910
+25762	27685	1676085195009078403	CMakeFiles/instagram_clone.dir/flutter/generated_plugin_registrant.cc.o	55a7b956fe6d0019
+25761	27869	1676085195193078455	CMakeFiles/instagram_clone.dir/main.cc.o	22eb869f8da8357c
+25761	27920	1676085195245078470	CMakeFiles/instagram_clone.dir/my_application.cc.o	cae322deb1dcff86
+27920	28359	1676085195689078597	intermediates_do_not_run/instagram_clone	a27cc79c8e4c8c9
+28359	28860	0	CMakeFiles/install.util	65a4e693020ae198
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/libflutter_linux_gtk.so	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_value.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_view.h	3c97a894e539e910
+4	6441	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3c97a894e539e910
+4	6441	0	flutter/_phony_	3c97a894e539e910
+6445	6996	1676085346573106225	CMakeFiles/instagram_clone.dir/flutter/generated_plugin_registrant.cc.o	55a7b956fe6d0019
+6442	7012	1676085346589106226	CMakeFiles/instagram_clone.dir/my_application.cc.o	cae322deb1dcff86
+7012	7188	1676085346769106242	intermediates_do_not_run/instagram_clone	cb83d4545d9468a4
+7188	7367	0	CMakeFiles/install.util	65a4e693020ae198
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/libflutter_linux_gtk.so	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_value.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_view.h	3c97a894e539e910
+5	10534	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3c97a894e539e910
+5	10534	0	flutter/_phony_	3c97a894e539e910
+10535	13258	1676086402002164981	CMakeFiles/instagram_clone.dir/flutter/generated_plugin_registrant.cc.o	55a7b956fe6d0019
+10534	13345	1676086402142181196	CMakeFiles/instagram_clone.dir/my_application.cc.o	cae322deb1dcff86
+13345	13780	1676086402582232156	intermediates_do_not_run/instagram_clone	cb83d4545d9468a4
+13780	13958	0	CMakeFiles/install.util	65a4e693020ae198
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/libflutter_linux_gtk.so	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_value.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/fl_view.h	3c97a894e539e910
+16	10015	0	/home/vinicius/Área de Trabalho/instagram_clone/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3c97a894e539e910
+16	10015	0	flutter/_phony_	3c97a894e539e910
+10016	10726	1676088494801307718	CMakeFiles/instagram_clone.dir/flutter/generated_plugin_registrant.cc.o	55a7b956fe6d0019
+10016	10762	1676088494837307806	CMakeFiles/instagram_clone.dir/my_application.cc.o	cae322deb1dcff86
+10762	10963	1676088495041308309	intermediates_do_not_run/instagram_clone	cb83d4545d9468a4
+10963	11175	0	CMakeFiles/install.util	65a4e693020ae198

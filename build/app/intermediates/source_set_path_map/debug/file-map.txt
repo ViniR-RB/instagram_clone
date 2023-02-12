@@ -1,0 +1,21 @@
+dev.vini.instagram_clone.app-browser-1.4.0-0 /home/vinicius/.gradle/caches/transforms-3/162e57b214e200a6207c40330426bda2/transformed/browser-1.4.0/res
+dev.vini.instagram_clone.app-jetified-annotation-experimental-1.1.0-1 /home/vinicius/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+dev.vini.instagram_clone.app-jetified-window-java-1.0.0-beta04-2 /home/vinicius/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+dev.vini.instagram_clone.app-jetified-firebase-common-20.3.0-3 /home/vinicius/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/res
+dev.vini.instagram_clone.app-core-1.6.0-4 /home/vinicius/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+dev.vini.instagram_clone.app-jetified-play-services-basement-18.1.0-5 /home/vinicius/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/res
+dev.vini.instagram_clone.app-jetified-play-services-base-18.0.1-6 /home/vinicius/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/res
+dev.vini.instagram_clone.app-jetified-window-1.0.0-beta04-7 /home/vinicius/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+dev.vini.instagram_clone.app-debug-8 /home/vinicius/Área de Trabalho/instagram_clone/android/app/src/debug/res
+dev.vini.instagram_clone.app-main-9 /home/vinicius/Área de Trabalho/instagram_clone/android/app/src/main/res
+dev.vini.instagram_clone.app-google-services-10 /home/vinicius/Área de Trabalho/instagram_clone/build/app/generated/res/google-services/debug
+dev.vini.instagram_clone.app-pngs-11 /home/vinicius/Área de Trabalho/instagram_clone/build/app/generated/res/pngs/debug
+dev.vini.instagram_clone.app-resValues-12 /home/vinicius/Área de Trabalho/instagram_clone/build/app/generated/res/resValues/debug
+dev.vini.instagram_clone.app-rs-13 /home/vinicius/Área de Trabalho/instagram_clone/build/app/generated/res/rs/debug
+dev.vini.instagram_clone.app-mergeDebugResources-14 /home/vinicius/Área de Trabalho/instagram_clone/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+dev.vini.instagram_clone.app-mergeDebugResources-15 /home/vinicius/Área de Trabalho/instagram_clone/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+dev.vini.instagram_clone.app-merged_res-16 /home/vinicius/Área de Trabalho/instagram_clone/build/app/intermediates/merged_res/debug
+dev.vini.instagram_clone.app-packaged_res-17 /home/vinicius/Área de Trabalho/instagram_clone/build/cloud_firestore/intermediates/packaged_res/debug
+dev.vini.instagram_clone.app-packaged_res-18 /home/vinicius/Área de Trabalho/instagram_clone/build/firebase_auth/intermediates/packaged_res/debug
+dev.vini.instagram_clone.app-packaged_res-19 /home/vinicius/Área de Trabalho/instagram_clone/build/firebase_core/intermediates/packaged_res/debug
+dev.vini.instagram_clone.app-packaged_res-20 /home/vinicius/Área de Trabalho/instagram_clone/build/firebase_storage/intermediates/packaged_res/debug
